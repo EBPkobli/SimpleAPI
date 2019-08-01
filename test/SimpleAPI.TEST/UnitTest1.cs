@@ -9,7 +9,7 @@ namespace SimpleAPI.TEST
         ValuesController controller = new ValuesController();
         [Fact]
         public void GetReturnsMyName(){
-            var returnValue = controller.Get(1);
+           
             
         }
 
